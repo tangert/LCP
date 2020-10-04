@@ -52,3 +52,6 @@ There are several key operations that can be performed on collections:
 **Merge**: Merging takes two collections and turns them into one.
 
 All actions operate are immutable, so you can run back each operation to go back to any previous actions.
+
+## Open questions
+???????
